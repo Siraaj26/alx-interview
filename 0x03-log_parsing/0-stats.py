@@ -28,7 +28,7 @@ try:
                     print('{}: {}'.format(key, value))
 
 except Exception as err:
-    pas
+    pass
 
 finally:
     print('File size: {}'.format(total_size))
